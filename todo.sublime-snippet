@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+TODO: ${1}
+]]></content >
+  <description>TODO</description>
+  <tabTrigger>todo</tabTrigger>
+</snippet >
