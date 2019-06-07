@@ -1,0 +1,104 @@
+{
+  "always_prompt_for_file_reload": false,
+  "always_show_minimap_viewport": true,
+  "auto_complete": true,
+  "auto_complete_commit_on_tab": true,
+  "binary_file_patterns":
+  [
+    "generated/*",
+    "*.tbz2",
+    "*.gzip",
+    "*.jpg",
+    "*.jpeg",
+    "*.png",
+    "*.gif",
+    "*.ttf",
+    "*.tga",
+    "*.dds",
+    "*.ico",
+    "*.eot",
+    "*.pdf",
+    "*.swf",
+    "*.jar",
+    "*.zip"
+  ],
+  "bold_folder_labels": true,
+  "caret_extra_width": 2,
+  "color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+  "create_window_at_startup": false,
+  "draw_minimap_border": true,
+  "draw_white_space": "all",
+  "ensure_newline_at_eof_on_save": true,
+  "file_exclude_patterns":
+  [
+    "*.pyc",
+    "*.pyo",
+    "*.exe",
+    "*.dll",
+    "*.obj",
+    "*.o",
+    "*.a",
+    "*.lib",
+    "*.so",
+    "*.dylib",
+    "*.ncb",
+    "*.sdf",
+    "*.suo",
+    "*.pdb",
+    "*.idb",
+    ".DS_Store",
+    "*.class",
+    "*.psd",
+    "*.db",
+    "*.sublime-workspace",
+    "*.bson"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".svn",
+    ".git",
+    ".hg",
+    "CVS",
+    "node_modules",
+    "min",
+    ".vscode",
+    ".bower"
+  ],
+  "font_face": "mononoki",
+  "font_size": 17,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "hot_exit": false,
+  "ignored_packages":
+  [
+    "Rust",
+    "Vintage"
+  ],
+  "indent_guide_options":
+  [
+    "draw_active"
+  ],
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+  "match_brackets_angle": true,
+  "new_window_settings":
+  {
+    "show_minimap": false
+  },
+  "open_files_in_new_window": false,
+  "overlay_scroll_bars": "enabled",
+  "remember_open_files": false,
+  "rulers":
+  [
+    90
+  ],
+  "save_on_focus_lost": false,
+  "shift_tab_unindent": true,
+  "show_full_path": true,
+  "tab_size": 2,
+  "theme": "Adaptive.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "word_separators": "_",
+  "word_wrap": true,
+  "wrap_width": 90
+}
